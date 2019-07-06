@@ -1,0 +1,46 @@
+.centreText {
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 150px;
+  }
+  
+  .dropZone {
+    margin-top: 170px;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    height: 51vh;
+    background-color: #55bbff;
+    border-radius: 20px;
+    color: rgb(0, 0, 0);
+    overflow: hidden;
+  }
+  
+  .image1 {
+    max-width: 100%;
+    align-content: center;
+    height: 50vh;
+  }
+  
+  .dank {
+    display:flex;
+    justify-content:center;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+  }
+  
+  .dropZoneText {
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .dropZoneText:hover {
+    transform: scale(1.1);
+    font-weight: bold;
+  }

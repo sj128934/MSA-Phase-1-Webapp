@@ -1,0 +1,29 @@
+.header {
+    color: rgb(255, 0, 0);
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+  }
+.image {
+    padding-left: 10px;
+    max-height: 100%;
+    max-width: 100%;
+}
+.headerText{
+  font-size: 60px;
+  margin: auto 0;
+  font-weight: bold;
+  color: #56a8f5;
+  position: absolute; 
+  top: 20px;
+  text-align: center;
+}
+.headerText2{
+    font-size: 20px;
+    margin: auto 0;
+    font-weight: bold;
+    color: #000000;
+    position: absolute; 
+	top: 135px;
+    text-align: center;
+}
